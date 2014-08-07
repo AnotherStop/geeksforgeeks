@@ -1,3 +1,6 @@
+/*
+compute the longest path in tree (diameter of a tree)
+*/
 public class DiameterOfTree{
 	public int[] getDiameter(TreeNode root){
 		int[] result = new int[2]; //result[0] for diameter, result[1] for height
