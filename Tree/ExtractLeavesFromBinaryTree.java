@@ -1,3 +1,6 @@
+/*
+Extract Leaves of a Binary Tree in a Doubly Linked List
+*/
 public class ExtractLeavesFromBinaryTree{
 
 	public void extract(TreeNode root, TreeNode[] head, TreeNode[] prev){
